@@ -40,4 +40,7 @@ Designed by G0rocks
 Licensed under CC BY-NC-SA 4.0 + Commercial Exception  
 Full license in `LICENSE.txt`
 
----
+## Where posted
+This model has been posted to:
+- [Printables](https://www.printables.com/model/1468558-e-reader-book-bed-holder)
+- [Thangs](https://thangs.com/designer/Huldar/3d-model/e-reader%20%2F%20book%20bed%20holder-1462101)
