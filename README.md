@@ -5,6 +5,8 @@ Designed for personal use and remixing — see license details below for commerc
 
 This design is inspired by the [Kindle / Ebook Holder for Ikea Bed Frames](https://www.printables.com/model/1387947-kindle-ebook-holder-for-ikea-bed-frames) by [@Franks3y_2334152](https://www.printables.com/@Franks3y_2334152) on printables.
 
+If you don't have access to a 3D printer, you can buy the physical product [here](https://teleportpod.com/portal/48fc27dd-05a8-40bc-9a51-8b122fed88c5?item=1981)
+
 ## 🧩 What's Included
 
 - 3D models designed in Freecad
@@ -52,4 +54,7 @@ Designed by G0rocks
 Licensed under CC BY-NC-SA 4.0 + Commercial Exception  
 Full license in `LICENSE.txt`
 
----
+## Where posted
+This model has been posted to:
+- [Printables](https://www.printables.com/model/1468558-e-reader-book-bed-holder)
+- [Thangs](https://thangs.com/designer/Huldar/3d-model/e-reader%20%2F%20book%20bed%20holder-1462101)
